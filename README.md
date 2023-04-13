@@ -1,8 +1,4 @@
-- 👋 Hi, I’m Jubin Jose
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript, HTML & CSS
-- 💞️ I’m looking to collaborate on React projects
-- 📫 How to reach me : jvbin#0001 via discord
+![image](https://raw.githubusercontent.com/jvbin/jvbin/main/coder%20doggo.gif)
 
 <!---
 jvbin/jvbin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
